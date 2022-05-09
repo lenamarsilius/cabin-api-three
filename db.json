@@ -29,16 +29,20 @@
       "directions": "Adkomst mulig med kollektivtransport, sykkel og bil hele året. Adkomst sommer: Det er stor offentlig parkeringsplass 100 meter fra hytta som vi ber dere benytte. Det er ikke tillatt å kjøre helt frem. Ta rutebåt fra Oslo til Vollen. Herfra går det buss videre, gå av på Håkavik. Herfra er det 10 minutters gange frem til hytta. Adkomst vinter: Det er stor offentlig parkeringsplass 100 meter fra hytta som vi ber dere benytte. Det er ikke tillatt å kjøre helt frem.",
       "stops": [
         {
-          "Arnestad skole": 604
+          "stop": "Arnestad skole",
+          "distance": 604
         },
         {
-          "Arnestad": 745
+          "stop": "Arnestad",
+          "distance": 745
         },
         {
-          "Håkavik": 752
+          "stop": "Håkavik",
+          "distance": 752
         },
         {
-          "Vollen": 872
+          "stop": "Vollen",
+          "distance": 872
         }
       ]
     },
@@ -71,16 +75,20 @@
       "directions": "Adkomst sommer: Adkomst med egen båt eller taxibåt som bestilles på 4145 4145 god tid i forveien. Båt kan også leies hos Fjordsenteret i Sagesund tlf 415 31 212. Der kan det også leies parkeringsplass. Det er offentlige parkeringsplasser i Tvedestrand og på Hagefjordbrygga. Det er også muligheter for gratis parkering i Tvedestrand by.",
       "stops": [
         {
-          "Skibolidalen": 837
+          "stop": "Skibolidalen",
+          "distance": 837
         },
         {
-          "Sagesund": 1023
+          "stop": "Sagesund",
+          "distance": 1023
         },
         {
-          "Grønland": 1068
+          "stop": "Grønland",
+          "distance": 1068
         },
         {
-          "Langesandveien": 1136
+          "stop": "Langesandveien",
+          "distance": 1136
         }
       ]
     },

@@ -60,10 +60,10 @@
       "image": [
         "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/gujub5rcrlaf2yntzk1s",
         "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/pdrvc7wwvymz7gjxnilh",
-        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/lovabqtxheokgraraihr",
         "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/qzbx7jttbnfgw31gomfk",
         "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/siitpiancwdstuencxcy",
-        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/cfas4nxruljn1t53s3um"
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/cfas4nxruljn1t53s3um",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/t0wn8m8pr6y1sznxwr5w"
         ],
       "beds": 18,
       "fylke": "Agder",
@@ -104,9 +104,8 @@
       "avg_wind": null,
       "avg_precipitation": null,
       "image": [
-        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/psgxqlrqv3bypftqorpc",
-        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/fwjpimemzc0bycvohf4w",
         "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/z47zeixetnyn57bsz6ng",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/fwjpimemzc0bycvohf4w",
         "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/zjwm5gpdeoph8ucu6jkw",
         "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/stcxao23ln8kesjbt8kp",
         "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/fdoqgwlhb4iuaztichjx"
